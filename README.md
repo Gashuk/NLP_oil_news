@@ -7,13 +7,13 @@ parsing_NLP_news_url.py - Parsing links to news
 word_processing_nlp_ver_final.py - Preprocessing a dataset with 26,000 comments
 
 # Team 
-• Zbrodov Evgeny Alekseevich (@Y0uGeeN):
+• Zbrodov Evgeny Alekseevich ([@Y0uGeeN](https://github.com/Y0uGeeN)):
 Data analysis, data preprocessing, model creation, report writing, data visualization
 
-• Odinaev Georgy Andreevich:
+• Odinaev Georgy Andreevich (https://github.com/Gashuk):
 Data analysis, data preprocessing, model creation, report writing, data visualization
 
-• Pyatanov Kirill Andreevich: 
+• Pyatanov Kirill Andreevich (https://github.com/Gashuk/NLP_oil_news): 
 Data collection, data preprocessing, model testing, selection of hyperparameters
 
 # Topic description
