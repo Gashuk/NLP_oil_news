@@ -10,7 +10,7 @@ word_processing_nlp_ver_final.py - Preprocessing a dataset with 26,000 comments
 • Zbrodov Evgeny Alekseevich ([@Y0uGeeN](https://github.com/Y0uGeeN)):
 Data analysis, data preprocessing, model creation, report writing, data visualization
 
-• Odinaev Georgy Andreevich ([@Gashuk]https://github.com/Gashuk)):
+• Odinaev Georgy Andreevich ([@Gashuk](https://github.com/Gashuk)):
 Data analysis, data preprocessing, model creation, report writing, data visualization
 
 • Pyatanov Kirill Andreevich ([@Kimoko](https://github.com/Kimoko)): 
