@@ -1,9 +1,13 @@
 # “Analysis of comments from news in the oil industry for the formation of trends using NLP”
 
 classification_parsing_comments_and_graphics_output.py - Classification of comments received by parsing the site, output of a graph with a change in tonality for the top 15 tags.
+
 model_bert_nlp_ver_final_ipynb_.py - BERT machine learning model
+
 parsing_NLP_comments.py - Parsing comments and tags from a news portal 
+
 parsing_NLP_news_url.py - Parsing links to news
+
 word_processing_nlp_ver_final.py - Preprocessing a dataset with 26,000 comments
 
 # Team 
